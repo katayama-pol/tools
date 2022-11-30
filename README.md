@@ -2,11 +2,11 @@
 ## 概要
 各ツールの概要を以下に記載する。
 
-1. [簡易コードチェック.xlsm](https://github.com/katayama-pol/tools/blob/main/README.md#1-簡易コードチェック)
+1. [簡易コードチェック.xlsm](https://github.com/katayama-pol/tools/tree/develop#1-簡易コードチェック)
 
-2. [100カラムチェック.xlsm](https://github.com/katayama-pol/tools/blob/main/README.md#2-100カラムチェック)
+2. [100カラムチェック.xlsm](https://github.com/katayama-pol/tools/tree/develop#2-100カラムチェック)
 
-3. [Insert文作成マクロ.xlsm](https://github.com/katayama-pol/tools/blob/main/README.md#3-Insert文作成マクロ)
+3. [Insert文作成マクロ.xlsm](https://github.com/katayama-pol/tools/tree/develop#3-Insert文作成マクロ)
 
 <br />
 
